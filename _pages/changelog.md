@@ -1,65 +1,30 @@
 ---
 layout: page
-title: What's New
+title: About
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+# Mission
+
+At CrissCross, we believe in workplace and financial empowerment for the younger generations. Teenagers face the highest rates of unemployment and underemployment among any demographic, leaving parents worrying whether or not their children can develop real-world skills with the relatively little time they have. Our solution to this problem is unique but straightforward: provide teenagers with flexible gigs in their most familiar setting: the neighborhood.
 
 <br>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+# **Meet the Team**
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+#### Tyler McNierney
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+Tyler McNierney is an undergraduate at UC Berkeley studying Electrical Engineering and Computer Science. His first gig in high school was a piano tutoring job for a neighbor down the street, which turned out to be an incredibly rewarding experience that became an inspiration for CrissCross. Aside from piano, Tyler enjoys martial arts, dancing, writing, and skating around the neighborhood area.
 
-<br>
+#### Grace Lam
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+Grace Lam is a Berkeley student studying Computer Science, Business, and Design. She enjoys tackling hard problems with an engineering toolkit and a human-centered design mindset. She graduated from Palo Alto High, where she planned STEM events for youth in the community through the Teen Advisory Board funded by the City of Palo Alto. In her free time, she enjoys going to hackathons, playing intramural volleyball, and trying new food spots around town.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+#### Alicia Wang
 
 <br>
 
-________
-<br>
+### Beta Testing
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
-<br>
+We'd be thrilled to welcome you to the CrissCross family as a future beta tester.
+[Join here!](https://gracelam344752.typeform.com/to/LnShnQ31)
